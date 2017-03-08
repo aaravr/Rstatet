@@ -1,2 +1,2 @@
 # Rstatet
-R and StatEt
+R and StatEt (Eclipse plugin)
